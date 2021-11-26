@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("I love JAVA");
         System.out.println("I'm going to learn it");
         //this is single line comment
+        System.out.println("test");
 
         System.out.println("Number");
 
