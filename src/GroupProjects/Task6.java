@@ -4,11 +4,19 @@ public class Task6 {
 
     public static void main(String[] args) {
 
-        String plus = "+";
-        String minus = "------------------------------------------------------------";
+        System.out.println("+--------------------------------------------------------------------------------+");
+        System.out.println("|                                                                                |");
+        System.out.println("|                                                                        #####   |");
+        System.out.println("|                                                                        #####   |");
+        System.out.println("|                                                                        #####   |");
+        System.out.println("|                                                                                |");
+        System.out.println("|                                             Chyngyz Kalybek                    |");
+        System.out.println("|                                             123 Main St. Drive                 |");
+        System.out.println("|                                             Tampa, FL 33626                    |");
+        System.out.println("|                                                                                |");
+        System.out.println("+--------------------------------------------------------------------------------+");
 
 
-        System.out.println(plus); System.out.println(minus); System.out.println(plus);
 
 
 
